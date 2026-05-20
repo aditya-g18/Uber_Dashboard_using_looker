@@ -11,8 +11,7 @@ First, I cleaned and processed the dataset using Python. After cleaning the data
 # Tools & Technologies Used
 - Python  
 - Pandas  
-- NumPy  
-- Matplotlib  
+- NumPy    
 - Looker Studio  
 - Excel Dataset  
 
